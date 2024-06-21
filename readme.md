@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  A Hero section and Card styles display website with static and animated designs using pure HTML and CSS
+  A Hero section and Card styles display website with static and animated designs using pure HTML and CSS <br>
   Deployment Link: https://ezekielguarin.github.io/WD-HANDS-ON-2/
 </div>
 
