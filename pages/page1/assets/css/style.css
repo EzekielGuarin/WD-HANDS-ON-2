@@ -410,6 +410,54 @@ i.gg-profile {
 }
 
 
+.form-container {
+    margin-top: 12rem;
+    margin-left: 26.5rem;
+    width: 100%;
+    max-width: 40rem;
+  }
+  
+  .card {
+    background-color: #ccc;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #999;
+    border-radius: 4px;
+    transition: border-color 0.3s ease-in-out;
+    outline: none;
+    color: #333;
+  }
+  
+  input:focus {
+    border-color: #666;
+  }
+  
+  button {
+    background-color: #666;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+
 /* HERO DESIGN 5 */
 
 .hero-design-5 {
