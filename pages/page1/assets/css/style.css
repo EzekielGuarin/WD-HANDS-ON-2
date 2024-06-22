@@ -524,3 +524,44 @@ i.gg-profile {
     justify-content: space-between;
    
 }
+
+.design5-content {
+    margin-top: 14rem;
+    margin-left: 45rem;
+    max-width: 40rem;
+    text-align: right;
+    text-justify: inter-word;
+    
+}
+
+.design5-content h1 {
+    font-size: 5rem;
+    color: white;
+
+}
+
+.design5-content p {
+    margin: 10px 0 30px;
+    line-height: 1.7rem;
+    color: darkgray;
+}
+
+.design5-button {
+    color: black;
+    text-decoration: none;
+    margin-right: 15rem;
+    padding: 0.8rem 1rem;
+    background: #6cccd4;
+    background: linear-gradient(138deg,#6cccd4 0%, #e7d586 80%);
+    background: -webkit-linear-gradient(138deg,#6cccd4 0%, #e7d586 80%);
+    background: -moz-linear-gradient(138deg,#6cccd4 0%, #e7d586 80%);
+
+}
+
+.design-five-character {
+    position: absolute;
+    width: 50rem;
+    top: 15rem;
+    bottom: 0;
+    right: 50rem;
+}
