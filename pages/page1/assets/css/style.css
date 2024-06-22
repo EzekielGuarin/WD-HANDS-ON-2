@@ -163,13 +163,15 @@ section {
     -webkit-box-shadow: 0px 18px 7px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 18px 7px 0px rgba(0,0,0,0.75);
 }
-
 .profile {
-     padding: 1rem;
-     display: flex;
-     align-items: center;
-     gap: 1rem;
-     color: white;
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+    padding: 1rem 1rem;
+}
+
+i.gg-profile {
+    bottom: 0.6rem;
         }
 
 .pacman-logo {
@@ -192,6 +194,47 @@ section {
 .menu-design2, .profile, .gg-menu, .navigation-design2 {
     color: white;
     text-decoration: none;
+    
+}
+
+.content-design2 {
+    margin-top: 8rem;
+    margin-left: 5rem;
+    text-align: center;
+    text-justify: inter-word;
+    margin-right: 3rem;
+    
+}
+
+.content-design2 h1 {
+    font-size: 5rem;
+    color: white;
+
+}
+
+.content-design2 p {
+    margin: 10px 0 30px;
+    line-height: 1.7rem;
+    color: darkgray;
+}
+
+.buttons-design2 {
+    display: flex;
+    margin-left: 22.1rem;
+    text-align: center;
+    gap: 10rem;
+    margin-top: 10rem;
+
+   
+}
+
+.nav-design2 {
+    
+    padding: 1rem 3rem;
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+
 }
 
 /* HERO DESIGN 3 */
