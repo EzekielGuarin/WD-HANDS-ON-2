@@ -300,6 +300,52 @@ i.gg-profile {
 }
 
 
+.content-design3 {
+    margin-top: 8rem;
+    margin-left: 5rem;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 3rem;
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-gap: 28px;
+    -webkit-column-gap: 28px;
+    -moz-column-gap: 28px;
+    column-rule: 3px solid #000000;
+    -webkit-column-rule: 3px solid #000000;
+    -moz-column-rule: 3px solid #000000;
+    
+}
+
+.content-design3 h1 {
+    font-size: 5rem;
+    color: lawngreen;
+
+}
+
+.content-design3 p {
+    max-width: 30rem;
+    margin: 10px 0 30px;
+    line-height: 1.7rem;
+    color: white;
+}
+
+.button-design3 {
+    display: inline-block;
+    
+}
+
+.nav-design3 {
+    padding: 1rem 3rem;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+
+}
+
+
+
 /* HERO DESIGN 4 */
 
 .hero-design-4 {
