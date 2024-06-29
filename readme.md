@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="/assets/img/paimon.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-HANDS-ON-2</h3>
@@ -60,6 +60,9 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
+This project focuses on the creation and demonstration of unique Header section and Card styles designs,
+The designs will be crafted using HTML and CSS to showcase a variety of aesthetic and functional possibilities for website layouts
+
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -105,3 +108,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | 200 Hero Section Designs | Reference for Hero Section | https://ph.pinterest.com/anronkai/hero-section-design/ |
+| 125+ CSS Cards | Reference for Card Section | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6rJvL4IGHAxV0-jgGHduxABQQFnoECBUQAQ&url=https%3A%2F%2Ffreefrontend.com%2Fcss-cards%2F&usg=AOvVaw2-ABxhg3jGqz74x1G2S753&opi=89978449 |
