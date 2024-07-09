@@ -63,6 +63,11 @@ Description of the project in details.
 This project focuses on the creation and demonstration of unique Header section and Card styles designs,
 The designs will be crafted using HTML and CSS to showcase a variety of aesthetic and functional possibilities for website layouts
 
+Guiding Question:
+- What is the project - This project is about displaying 2 different hero section and card designs
+- Whats the purpose - The purpose of this is to show a distinct and variety designs of the hero section and card designs
+- What technology used and how it is used - Used VSCODE for coding, used HTML and CSS as my programming language
+
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
